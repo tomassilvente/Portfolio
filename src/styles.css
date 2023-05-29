@@ -1,0 +1,21 @@
+body{
+  padding: 20px;
+  background-color: rgb(230, 164, 255);
+}
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.blanco{
+  background-color: rgba(255, 255, 255, 0.556);
+}
+.carta{
+  width: 100%;
+  max-height: 240px;
+}
+.titulo{
+  font-size: 50px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.color{
+  background-color: rgb(178, 103, 248);
+}
